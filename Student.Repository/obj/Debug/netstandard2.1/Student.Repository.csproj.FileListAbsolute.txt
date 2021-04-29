@@ -1,0 +1,9 @@
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.csprojAssemblyReference.cache
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.AssemblyInfoInputs.cache
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.AssemblyInfo.cs
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\bin\Debug\netstandard2.1\Student.Repository.deps.json
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\bin\Debug\netstandard2.1\Student.Repository.dll
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\bin\Debug\netstandard2.1\Student.Repository.pdb
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.dll
+D:\Desarrollo\Ejemplos\demoAPI.Student.API\Student.Repository\obj\Debug\netstandard2.1\Student.Repository.pdb
